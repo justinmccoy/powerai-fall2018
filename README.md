@@ -42,7 +42,7 @@ You'll walk away with:
 
 
 
-## Presenters
+---
 ![Presenters](images/ibmpointrdata.png)
 
 * **[Saran Saund](https://www.linkedin.com/in/saransaund/)**, Co-Founder and CEO at PointR Data Inc. His recent projects include deep neural networks and machine learning in diverse applications from genetic sequencing to video analytics. Advisor to early-stage ventures and F500-companies; Saran is passionate about applying technology innovations to real world markets. Timing is everything. Sometimes a little early (digital cash in the 90s!) and others right on-the-money. In 2008 he sold PicoMobile to Marvell (MRVL) returning 10X to early shareholders. He started his career at Xerox PARC pushing 1’s and 0’s as a software engineer.
