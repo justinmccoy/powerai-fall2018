@@ -35,7 +35,7 @@ You'll walk away with:
 | 6:20PM  | Kickoff by [Scott Soutter](https://twitter.com/soutros?lang=en) | 
 | 6:30PM  | Intro to AI and ML at IBM | [Slides](resources/intro-to-ai-and-ml.pdf) |
 | 7:00PM | Introducing PointR Data | |
-| 8:00PM | Rise of GPU Computing w/PowerAI +Demo | [Slides](rise-of-gpu-computing.pdf) |
+| 8:00PM | Rise of GPU Computing w/PowerAI +Demo | [Slides](resources/rise-of-gpu-computing.pdf) |
 | 8:50PM | Wrap-up | |
 
 
